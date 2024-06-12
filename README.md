@@ -15,10 +15,8 @@ My name is Lewis, I am primarily a .NET developer specialising in back-end tech.
 [![My Skills](https://skillicons.dev/icons?i=react,ts)](https://skillicons.dev)
 
 <a href="https://github.com/lewisdaviesdev/lewisdaviesdev">
-  <img align="center" src="https://github-readme-stats-three-amber-23.vercel.app
-/api/top-langs/?username=lewisdaviesdev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats-three-amber-23.vercel.app/api/top-langs/?username=lewisdaviesdev&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 <a href="https://github.com/lewisdaviesdev/lewisdaviesdev">
-  <img align="center" src="https://github-readme-stats-three-amber-23.vercel.app
-/api?username=lewisdaviesdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lewis Davies' GitHub Stats" />
+  <img align="center" src="https://github-readme-stats-three-amber-23.vercel.app/api?username=lewisdaviesdev&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Lewis Davies' GitHub Stats" />
 </a>
