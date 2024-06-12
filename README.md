@@ -4,6 +4,7 @@ My name is Lewis, I am primarily a .NET developer specialising in back-end tech.
 
 #### Current tech stack:
 [![My Skills](https://skillicons.dev/icons?i=cs,azure,js,html,css,react,angular,raspberrypi,mysql,bootstrap)](https://skillicons.dev)
+
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![RxJS](https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)
 
 
