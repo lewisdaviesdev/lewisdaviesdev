@@ -1,6 +1,6 @@
 ## Hey fellow coders 👋
 
-My name is Lewis, I am primarily a .NET developer specialising in back-end tech. Currently transition into more of a full stack role.
+My name is Lewis, I am primarily a .NET developer specialising in back-end tech. Currently transitioning into more of a full stack role.
 
 #### Current tech stack:
 [![My Skills](https://skillicons.dev/icons?i=cs,azure,js,html,css,react,angular,raspberrypi,mysql,bootstrap)](https://skillicons.dev)
